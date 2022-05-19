@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "campanion:recipes/tools/grappling_hook": {
+    "criteria": {
+      "has_grappling_hook": "2022-05-20 00:36:00 +1000"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_schist_slab": {
     "criteria": {
       "has_polished_schist": "2022-05-20 00:24:10 +1000"
@@ -493,8 +499,10 @@
       "minecraft:beach": "2022-05-20 00:23:04 +1000",
       "minecraft:river": "2022-05-20 00:23:09 +1000",
       "minecraft:snowy_plains": "2022-05-20 00:23:39 +1000",
+      "minecraft:stony_shore": "2022-05-20 00:39:29 +1000",
       "minecraft:snowy_taiga": "2022-05-20 00:23:52 +1000",
-      "minecraft:forest": "2022-05-20 00:15:16 +1000"
+      "minecraft:forest": "2022-05-20 00:15:16 +1000",
+      "minecraft:frozen_ocean": "2022-05-20 00:39:42 +1000"
     },
     "done": false
   },

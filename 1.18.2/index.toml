@@ -146,6 +146,11 @@ hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
+file = "mods/extraalchemy.toml"
+hash = "0275babee44e40b37c2425bd6f793e459bfccd8ebb1da9dc17bdf5363764fee2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
@@ -318,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "6f435a935fe35a67cf0aaec3c76027efe74c51add5ae35243d7455b9619ef32a"
-metafile = true
-
-[[files]]
-file = "mods/scooters.toml"
-hash = "7eef8fa89fe985d6e4639fa63116e9644e3a380e7ff8c0f8c42d607978801fe5"
 metafile = true
 
 [[files]]
