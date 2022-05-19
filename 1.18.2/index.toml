@@ -81,6 +81,11 @@ hash = "9f6f8ef253da3c5d17050b6a5022693ed1b43f714f6f37bc5d4caf1456338f93"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "cfcb40dcfd9778c694dc79e71d77acd32f33fa82c46aca1d3031b4afab3e5413"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.toml"
 hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true
